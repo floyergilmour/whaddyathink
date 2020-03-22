@@ -1,0 +1,3 @@
+What do you think of ISIS?,Good,Bad
+Tabs or spaces?,Tabs,Spaces
+Is Corona exagerated?,Yes,No
